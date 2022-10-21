@@ -1,3 +1,7 @@
 primer archivo
 cambio 1
+<<<<<<< HEAD
 cambio 2 meli 
+=======
+conflicto
+>>>>>>> 69c2a768d8f9c71c8826c02670a9f24a0b1a07e7
